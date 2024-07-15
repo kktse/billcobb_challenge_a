@@ -1,0 +1,8 @@
+matplotlib==3.9.1
+polars==1.1.0
+numpy==2.0.0
+scipy==1.14.0
+
+# Jupyter stuff
+ipykernel==6.29.5
+ipympl==0.9.4
