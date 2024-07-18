@@ -6,7 +6,7 @@ the Vehicle Dynamics Professionals' Facebook group.
 ## Challenges
 
 The challenges focus on treatment of standardized vehicle dynamics tests. The
-challenges make extensive use the cornering compliance concept.
+challenges make extensive use of the cornering compliance concept.
 
 The challenges were posted on the Vehicle Dynamics Professionals's Facebook
 group over the course of July 11-12th, 2024.
@@ -50,6 +50,9 @@ yaw velocity by steer response and compute the following metrics.
 - Frequency at peak gain
 - Ratio of peak to steady-state gain
 - Bandwidth
+
+As an additional challenge, show a Bode plot of the yaw moment by steer
+response.
 
 The challenge data is available in `data/marc2.txt`.
 
@@ -178,7 +181,7 @@ The challenge data is available in `data/marc5.csv`.
 
 An implementation by @kktse written in Python is available in the `python`
 folder. This solution is implemented in a Jupyter notebook and makes use of
-polars, numpy, scipy, matplotlib and python-control.
+polars, numpy, scipy, matplotlib and python-control libraries.
 
 Further details can be found in the README.md.
 
