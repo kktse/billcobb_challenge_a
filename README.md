@@ -39,7 +39,7 @@ The challenge data is available in `data/marc1.txt`.
 
 </details>
 
-### Challenge 2: on-centre chip steer test
+### Challenge 2: on-centre chirp steer test
 
 From an on-centre chirp steer test at constant speed, show a Bode plot of the
 yaw velocity by steer response and compute the following metrics.
