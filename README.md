@@ -164,6 +164,14 @@ The challenge data is available in `data/marc5.csv`.
 
 </details>
 
+<details>
+<summary>Additional notes</summary>
+
+- Input steering is not an ideal Heaviside step function, but rather a sigmoid.
+  Industry standard is to take the 50% point of the steering as t(0).
+
+</details>
+
 ## Solutions
 
 ### Python
