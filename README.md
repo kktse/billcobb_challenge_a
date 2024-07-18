@@ -5,8 +5,8 @@ the Vehicle Dynamics Professionals' Facebook group.
 
 ## Challenges
 
-The challenges focus on treatment of standardize vehicle dynamics tests and
-your understanding of the cornering compliance concept.
+The challenges focus on treatment of standardized vehicle dynamics tests. The
+challenges make extensive use the cornering compliance concept.
 
 The challenges were posted on the Vehicle Dynamics Professionals's Facebook
 group over the course of July 11-12th, 2024.
